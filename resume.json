@@ -1,0 +1,141 @@
+{
+  "personal_info": {
+    "name": "Aashray",
+    "title": "Automation QA Engineer | Software Test Engineer",
+    "email": "aashraydhiman@gmail.com",
+    "phone": "+91 6283983373",
+    "location": "Chandigarh, India"
+  },
+  "summary": "Automation QA Engineer with 2+ years of experience in testing healthcare SaaS applications, specializing in test automation, API testing, and regression framework development. Strong expertise in Selenium, Cypress, Java, Python, Postman, and SQL.",
+  "education": [
+    {
+      "institution": "Rayat Bahra University",
+      "degree": "Bachelor of Technology (B.Tech) – Computer Science Engineering",
+      "duration": "2020 - 2024"
+    },
+    {
+      "institution": "GMSSS-35D, Chandigarh",
+      "degree": "Higher Secondary (CBSE)",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Health Catalyst",
+      "designation": "Engineer Analyst (QA / Automation Engineer)",
+      "duration": "04/2025 - Present",
+      "location": "Mohali, Punjab",
+      "responsibilities": [
+        "Designed and maintained Selenium and Cypress automation frameworks using Page Object Model.",
+        "Automated regression test suites reducing manual effort by 30-40%.",
+        "Conducted API testing using Postman and SQL backend validations.",
+        "Worked in Agile environments and managed defects using Azure DevOps."
+      ]
+    },
+    {
+      "company": "Upfront Healthcare",
+      "designation": "QA and Configuration Engineer",
+      "duration": "07/2023 - 04/2025",
+      "location": "Mohali, Punjab",
+      "responsibilities": [
+        "Executed manual and automation testing for healthcare applications.",
+        "Built and enhanced Cypress and Selenium automation suites.",
+        "Performed API testing and SQL backend validations.",
+        "Supported releases and collaborated with cross-functional teams."
+      ]
+    }
+  ],
+  "skills": {
+    "automation_testing": [
+      "Selenium WebDriver",
+      "Cypress",
+      "Postman",
+      "REST API Testing",
+      "Manual Testing",
+      "Regression Testing",
+      "Smoke Testing",
+      "Sanity Testing"
+    ],
+    "frameworks": [
+      "Page Object Model (POM)",
+      "Data Driven Framework",
+      "Modular Framework"
+    ],
+    "programming_languages": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "database": [
+      "SQL"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Azure DevOps",
+      "CI/CD"
+    ],
+    "methodologies": [
+      "Agile",
+      "Scrum",
+      "SDLC",
+      "STLC"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Automated Regression Test Framework",
+      "technologies": [
+        "Selenium",
+        "Java",
+        "TestNG"
+      ],
+      "description": [
+        "Developed automation framework using Selenium, Java and TestNG.",
+        "Automated regression and smoke scenarios.",
+        "Built reusable utilities for browser handling and reporting.",
+        "Integrated automated execution into build validation."
+      ]
+    },
+    {
+      "name": "Internal Workflow Automation",
+      "technologies": [
+        "Python"
+      ],
+      "description": [
+        "Built automation scripts for repetitive QA workflows.",
+        "Reduced human error and accelerated regression cycles."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AI & ML Certification",
+      "issuer": "IIT Guwahati"
+    },
+    {
+      "name": "Postman & API Testing Fundamentals",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "JavaScript Foundations",
+      "issuer": "Udemy"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Prize",
+      "event": "Technical Competition (Coding Blocks)"
+    },
+    {
+      "title": "3rd Prize",
+      "event": "Coding Competition (Technoversa 2022)"
+    }
+  ],
+  "highlights": [
+    "Reduced regression effort by 40%+ through automation.",
+    "Strong experience in Healthcare SaaS domain.",
+    "Hands-on expertise in Selenium, Cypress, API and SQL testing.",
+    "Excellent collaboration with developers in Agile teams."
+  ]
+}

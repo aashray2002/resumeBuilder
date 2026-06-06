@@ -1,0 +1,27 @@
+Job highlights
+2-3 years experience with expertise in Java 17, Spring Boot 3, Maven, SQL, and ITIL Problem and Change Management
+Handle complex escalated incidents, perform root cause analysis, implement code-level fixes and enhancements to improve system reliability
+Job match score
+Early Applicant
+Keyskills
+Location
+Work Experience
+Job description
+
+This role bridges the gap between reactive incident resolution and proactive problem management.
+The L3 Hybrid Java Support Developer will handle complex escalated incidents, perform in-depth root cause analysis, and implement code-level fixes and minor enhancements to improve system reliability, all within an ITIL-driven framework.
+This role demands deep technical insight, proactive problem-solving, and a strong commitment to system stability and performance, heavily leveraging ITIL Problem and Change Management.
+Technologies includes ReactJS, MUI, Skoda flow, Java 17, Spring Boot 3, Maven, SQL.
+Exp: 2-3 Years
+Role: Full Stack Developer
+Industry Type: Recruitment / Staffing
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Java
+Change ManagementRoot Cause AnalysisMavenSystem ReliabilitySpring BootSql

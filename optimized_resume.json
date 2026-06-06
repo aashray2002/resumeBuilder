@@ -1,0 +1,142 @@
+{
+    "personal_info": {
+        "name": "Aashray",
+        "title": "L3 Hybrid Java Developer | Software Engineer (Automation & Stability)",
+        "email": "aashraydhiman@gmail.com",
+        "phone": "+91 6283983373",
+        "location": "Chandigarh, India"
+    },
+    "summary": "Analytical Software Engineer with 2+ years of experience analyzing, debugging, and optimizing complex healthcare SaaS applications. Proven track record in code-level root cause analysis (RCA), backend validation using Java 17, Spring Boot, and SQL, and building scalable automation frameworks. Adept at identifying system vulnerabilities, resolving technical incidents, and managing changes within Agile and ITIL-driven lifecycles to guarantee long-term system reliability.",
+    "education": [
+        {
+            "institution": "Rayat Bahra University",
+            "degree": "Bachelor of Technology (B.Tech) – Computer Science Engineering",
+            "duration": "2020 - 2024"
+        },
+        {
+            "institution": "GMSSS-35D, Chandigarh",
+            "degree": "Higher Secondary (CBSE)",
+            "year": "2020"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Health Catalyst",
+            "designation": "Engineer Analyst (Hybrid Java & Automation Engineer)",
+            "duration": "04/2025 - Present",
+            "location": "Mohali, Punjab",
+            "responsibilities": [
+                "Perform deep-dive Root Cause Analysis (RCA) on code-level defects and escalated system anomalies within Java 17 and Spring Boot microservices environments.",
+                "Design, build, and maintain robust Selenium and Cypress framework architectures leveraging Maven and Page Object Model (POM) to ensure high system reliability.",
+                "Mitigate technical incidents and optimize system stability by executing thorough SQL backend validations and REST API test cycles using Postman.",
+                "Manage change tracking, defect isolation, and cross-functional resolutions inside Agile sprint cycles utilizing Azure DevOps workflows."
+            ]
+        },
+        {
+            "company": "Upfront Healthcare",
+            "designation": "QA & Configuration Engineer (Technical Support & Automation)",
+            "duration": "07/2023 - 04/2025",
+            "location": "Mohali, Punjab",
+            "responsibilities": [
+                "Diagnosed runtime application behaviors and application failures, executing systematic code-level troubleshooting for complex enterprise healthcare systems.",
+                "Refactored and optimized existing Cypress and Java/Selenium automation codebases, decreasing regression runtime and code bottlenecks.",
+                "Validated complex database integrity via advanced SQL queries and tracked end-to-end data flows through REST API interfaces.",
+                "Supported production deployment windows, facilitating smooth change management, system monitoring, and technical release verification."
+            ]
+        }
+    ],
+    "skills": {
+        "programming_languages_&_frameworks": [
+            "Java 17",
+            "Spring Boot 3 (Awareness/Testing)",
+            "JavaScript",
+            "Python",
+            "Maven"
+        ],
+        "problem_solving_&_methodologies": [
+            "Root Cause Analysis (RCA)",
+            "Incident Mitigation",
+            "Change Management",
+            "System Reliability Engineering",
+            "Agile/Scrum",
+            "SDLC / STLC"
+        ],
+        "backend_&_api_validation": [
+            "SQL",
+            "REST API Testing",
+            "Postman",
+            "Backend Database Verification"
+        ],
+        "automation_&_testing_tools": [
+            "Selenium WebDriver",
+            "Cypress",
+            "TestNG",
+            "Page Object Model (POM)",
+            "Regression Optimization",
+            "Smoke & Sanity Analysis"
+        ],
+        "infrastructure_&_devops": [
+            "Azure DevOps",
+            "Git",
+            "GitHub",
+            "CI/CD Integration"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Java-Based System Stability & Regression Framework",
+            "technologies": [
+                "Java 17",
+                "Maven",
+                "Selenium",
+                "TestNG"
+            ],
+            "description": [
+                "Architected an automated code-verification framework using Java and Maven to proactively catch application regressions.",
+                "Created shared utilities for system state validation, error logging, and visual execution reporting.",
+                "Integrated validation gates within the build pipeline to catch environment instability before production code deployment."
+            ]
+        },
+        {
+            "name": "Internal Workflow Automation & Incident Scripting",
+            "technologies": [
+                "Python",
+                "Scripting"
+            ],
+            "description": [
+                "Developed custom Python utility scripts to automate repetitive system monitoring and data-patching operations.",
+                "Minimized manual operational errors and significantly expedited root cause analysis cycles for engineering teams."
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AI & ML Certification",
+            "issuer": "IIT Guwahati"
+        },
+        {
+            "name": "Postman & API Testing Fundamentals",
+            "issuer": "Udemy"
+        },
+        {
+            "name": "JavaScript Foundations",
+            "issuer": "Udemy"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "1st Prize",
+            "event": "Technical Competition (Coding Blocks) - Evaluated on efficient Java logic formulation"
+        },
+        {
+            "title": "3rd Prize",
+            "event": "Coding Competition (Technoversa 2022) - Algorithm design and programmatic problem solving"
+        }
+    ],
+    "highlights": [
+        "Expertise in core Java troubleshooting, object-oriented design, and automated backend execution.",
+        "Proven capability to track system defects down to source code layers, implementing framework fixes to protect system reliability.",
+        "Deeply familiar with Healthcare SaaS domain configurations and sensitive data workflow validation.",
+        "Strong collaborator with core software development and platform engineering squads within modern DevOps ecosystems."
+    ]
+}
